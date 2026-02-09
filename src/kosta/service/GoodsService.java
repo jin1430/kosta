@@ -12,4 +12,7 @@ public class GoodsService {
 	public void update() {
 		System.out.println("로컬에서 업데이트 수정");
 	}
+	public void delete() {
+		System.out.println("delete 추가 ...");
+	}
 }
